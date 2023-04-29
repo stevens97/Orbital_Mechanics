@@ -1,6 +1,6 @@
 # Orbital Mechanics
 
-<img src="https://github.com/stevens97/Orbital_Mechanics/blob/main/Sample.jpg" width="35%" height="35%">
+<img src="https://github.com/stevens97/Orbital_Mechanics/blob/main/Sample.jpg" width="75%" height="75%">
 
 
 This Jupyter Notebook provides a tutorial of how orbital mechanics can be computed numerically within Python.
