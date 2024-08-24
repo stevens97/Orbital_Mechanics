@@ -5,11 +5,6 @@
 
 This Jupyter Notebook is designed for calculating orbital mechanics in Python.
 
-This is done by calculating the orbit of Halley's comet.
-Based on Exercise 3.6 and 3.11 of Numerical methods for Physics, Garcia (2000).
-
-This code is primarily for educational purposes.
-
 ## Prerequisites for using this program:
 
 - numpy
