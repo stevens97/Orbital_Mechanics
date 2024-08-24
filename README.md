@@ -3,7 +3,7 @@
 <img src="https://github.com/stevens97/Orbital_Mechanics/blob/main/Sample.jpg" width="75%" height="75%">
 
 
-This Jupyter Notebook provides a tutorial of how orbital mechanics can be computed numerically within Python.
+This Jupyter Notebook is designed for calculating orbital mechanics in Python.
 
 This is done by calculating the orbit of Halley's comet.
 Based on Exercise 3.6 and 3.11 of Numerical methods for Physics, Garcia (2000).
